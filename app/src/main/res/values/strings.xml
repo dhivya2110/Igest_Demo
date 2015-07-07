@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">IGest_A</string>
+    <string name="scan">Connect to a device</string>
+    <string name="scanning">Scanning...</string>
+    <string name="title_connected">Connected</string>
+    <string name="title_connecting">Connecting...</string>
+    <string name="title_not_connected">Device not connected</string>
+    <string name="bt_not_enabled_leaving">Bluetooth was not enabled. Leaving Remote Bluetooth</string>
+    <string name="title_paired_devices">Paired Devices</string>
+    <string name="title_other_devices">Other Devices</string>
+    <string name="button_scan">SCAN</string>
+    <string name="none_paired">No device is paired</string>
+    <string name="select_device">Select a device</string>
+    <string name="none_found">No devices found</string>
+    <string name="main_task">USE IGest</string>
+    <string name="add_new">ADD NEW GESTURE</string>
+    <string name="assign">ASSIGN TASK</string>
+    <string name="start_r">Beginning to record </string>
+    <string name="stop_r">Finished recording </string>
+    <string name="add_new_exp">\n \u2022 Place your hand in rest position \n \u2022 Press Start \n \u2022 Perform the gesture \n \u2022 Press Stop \n \u2022 Press Save to store</string>
+    <string name="title_saved_gest">Gestures </string>
+    <string name="title_activity_home__default">Home_Default</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+</resources>
